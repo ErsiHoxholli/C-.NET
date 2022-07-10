@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CPT2022\collectionsPractice\bin\Debug\net6.0\collectionsPractice.exe
+C:\Users\User\Desktop\CPT2022\collectionsPractice\bin\Debug\net6.0\collectionsPractice.deps.json
+C:\Users\User\Desktop\CPT2022\collectionsPractice\bin\Debug\net6.0\collectionsPractice.runtimeconfig.json
+C:\Users\User\Desktop\CPT2022\collectionsPractice\bin\Debug\net6.0\collectionsPractice.dll
+C:\Users\User\Desktop\CPT2022\collectionsPractice\bin\Debug\net6.0\collectionsPractice.pdb
+C:\Users\User\Desktop\CPT2022\collectionsPractice\obj\Debug\net6.0\collectionsPractice.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CPT2022\collectionsPractice\obj\Debug\net6.0\collectionsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CPT2022\collectionsPractice\obj\Debug\net6.0\collectionsPractice.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CPT2022\collectionsPractice\obj\Debug\net6.0\collectionsPractice.AssemblyInfo.cs
+C:\Users\User\Desktop\CPT2022\collectionsPractice\obj\Debug\net6.0\collectionsPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CPT2022\collectionsPractice\obj\Debug\net6.0\collectionsPractice.dll
+C:\Users\User\Desktop\CPT2022\collectionsPractice\obj\Debug\net6.0\refint\collectionsPractice.dll
+C:\Users\User\Desktop\CPT2022\collectionsPractice\obj\Debug\net6.0\collectionsPractice.pdb
+C:\Users\User\Desktop\CPT2022\collectionsPractice\obj\Debug\net6.0\collectionsPractice.genruntimeconfig.cache
+C:\Users\User\Desktop\CPT2022\collectionsPractice\obj\Debug\net6.0\ref\collectionsPractice.dll

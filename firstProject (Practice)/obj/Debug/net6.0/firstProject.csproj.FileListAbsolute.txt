@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CPT2022\firstProject\bin\Debug\net6.0\firstProject.exe
+C:\Users\User\Desktop\CPT2022\firstProject\bin\Debug\net6.0\firstProject.deps.json
+C:\Users\User\Desktop\CPT2022\firstProject\bin\Debug\net6.0\firstProject.runtimeconfig.json
+C:\Users\User\Desktop\CPT2022\firstProject\bin\Debug\net6.0\firstProject.dll
+C:\Users\User\Desktop\CPT2022\firstProject\bin\Debug\net6.0\firstProject.pdb
+C:\Users\User\Desktop\CPT2022\firstProject\obj\Debug\net6.0\firstProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CPT2022\firstProject\obj\Debug\net6.0\firstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CPT2022\firstProject\obj\Debug\net6.0\firstProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CPT2022\firstProject\obj\Debug\net6.0\firstProject.AssemblyInfo.cs
+C:\Users\User\Desktop\CPT2022\firstProject\obj\Debug\net6.0\firstProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CPT2022\firstProject\obj\Debug\net6.0\firstProject.dll
+C:\Users\User\Desktop\CPT2022\firstProject\obj\Debug\net6.0\refint\firstProject.dll
+C:\Users\User\Desktop\CPT2022\firstProject\obj\Debug\net6.0\firstProject.pdb
+C:\Users\User\Desktop\CPT2022\firstProject\obj\Debug\net6.0\firstProject.genruntimeconfig.cache
+C:\Users\User\Desktop\CPT2022\firstProject\obj\Debug\net6.0\ref\firstProject.dll
