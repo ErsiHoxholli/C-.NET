@@ -13,3 +13,11 @@ C:\Users\User\Desktop\Puzzles\obj\Debug\net6.0\refint\Puzzles.dll
 C:\Users\User\Desktop\Puzzles\obj\Debug\net6.0\Puzzles.pdb
 C:\Users\User\Desktop\Puzzles\obj\Debug\net6.0\Puzzles.genruntimeconfig.cache
 C:\Users\User\Desktop\Puzzles\obj\Debug\net6.0\ref\Puzzles.dll
+C:\Users\Ersi Hoxholli\Desktop\CPT2022\Puzzles (Core)\obj\Debug\net6.0\Puzzles.csproj.AssemblyReference.cache
+C:\Users\Ersi Hoxholli\Desktop\CPT2022\Puzzles (Core)\obj\Debug\net6.0\Puzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ersi Hoxholli\Desktop\CPT2022\Puzzles (Core)\obj\Debug\net6.0\Puzzles.AssemblyInfoInputs.cache
+C:\Users\Ersi Hoxholli\Desktop\CPT2022\Puzzles (Core)\obj\Debug\net6.0\Puzzles.AssemblyInfo.cs
+C:\Users\Ersi Hoxholli\Desktop\CPT2022\Puzzles (Core)\obj\Debug\net6.0\Puzzles.csproj.CoreCompileInputs.cache
+C:\Users\Ersi Hoxholli\Desktop\CPT2022\Puzzles (Core)\obj\Debug\net6.0\Puzzles.dll
+C:\Users\Ersi Hoxholli\Desktop\CPT2022\Puzzles (Core)\obj\Debug\net6.0\refint\Puzzles.dll
+C:\Users\Ersi Hoxholli\Desktop\CPT2022\Puzzles (Core)\obj\Debug\net6.0\Puzzles.pdb

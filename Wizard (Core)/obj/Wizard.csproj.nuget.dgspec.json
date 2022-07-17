@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ersi Hoxholli\\Desktop\\CPT2022\\Puzzles (Core)\\Puzzles.csproj": {}
+    "C:\\Users\\Ersi Hoxholli\\Desktop\\Wizard\\Wizard.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ersi Hoxholli\\Desktop\\CPT2022\\Puzzles (Core)\\Puzzles.csproj": {
+    "C:\\Users\\Ersi Hoxholli\\Desktop\\Wizard\\Wizard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ersi Hoxholli\\Desktop\\CPT2022\\Puzzles (Core)\\Puzzles.csproj",
-        "projectName": "Puzzles",
-        "projectPath": "C:\\Users\\Ersi Hoxholli\\Desktop\\CPT2022\\Puzzles (Core)\\Puzzles.csproj",
+        "projectUniqueName": "C:\\Users\\Ersi Hoxholli\\Desktop\\Wizard\\Wizard.csproj",
+        "projectName": "Wizard",
+        "projectPath": "C:\\Users\\Ersi Hoxholli\\Desktop\\Wizard\\Wizard.csproj",
         "packagesPath": "C:\\Users\\Ersi Hoxholli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ersi Hoxholli\\Desktop\\CPT2022\\Puzzles (Core)\\obj\\",
+        "outputPath": "C:\\Users\\Ersi Hoxholli\\Desktop\\Wizard\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ersi Hoxholli\\AppData\\Roaming\\NuGet\\NuGet.Config"
